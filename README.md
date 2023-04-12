@@ -2,7 +2,7 @@
 JavaPhoenix: AI-powered code regeneration and error resolution for Java programs
 # JavaPhoenix: The Self-Healing Java Tool
 
-Disclaimer:
+#Disclaimer:
 Please note that JavaPhoenix is a prototype and has not undergone extensive testing. While it demonstrates the concept of automated code repair using AI, it may not handle all edge cases or complex scenarios. We encourage users to test the tool in a safe environment and provide feedback for improvements. Use at your own risk.
 
 JavaPhoenix is an AI-powered code assistance tool that gives Java programs the ability to regenerate and heal from errors. Inspired by the regenerative abilities of comic book characters, JavaPhoenix uses a language model to analyze Java code, identify errors, and suggest fixes to resolve them.
